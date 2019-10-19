@@ -3,4 +3,4 @@
 A new Flutter project to get started with flutter application development!
 
 
-![Snapshot of the App](/Screenshot_20191019-223708.png)
+<img src="/Screenshot_20191019-223708.png" height="300em" />
